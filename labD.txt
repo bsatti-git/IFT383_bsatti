@@ -1,1 +1,2 @@
 This is Lab D for IFT 383
+This is my second update for Lab D.
